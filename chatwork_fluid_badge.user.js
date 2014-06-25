@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        chatwork_badge
+// @name        chatwork_fluid_badge
 // @version     1.0.0
 // @namespace   http://idaemons.org/
-// @description Show a badge for ChatWork.
+// @description Show a badge on your Fluid ChatWork app.
 // @include     https://www.chatwork.com/*
 // @include     https://kcw.kddi.ne.jp/*
 // @grant       none
