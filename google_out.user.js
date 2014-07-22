@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        chatwork_google_out
+// @name        google_out
 // @version     1.0.0
 // @namespace   http://idaemons.org/
-// @description Open *.google.com in the default browser on Fluid ChatWork app.
+// @description Open *.google.com in the default browser on Fluid app.
 // @include     http://*.google.com/*
 // @include     https://*.google.com/*
 // @grant       none
